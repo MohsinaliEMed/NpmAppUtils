@@ -1,1 +1,1 @@
-# react-native-in-app-utils
+# react-native-app-utils

@@ -1,5 +1,5 @@
 {
-  "name": "is-app-utils",
+  "name": "@emedstore/react-native-app-utils",
   "version": "1.0.0",
   "description": "AppUtilsLibrary is a fast and efficient open source. AppUtils is a library with many classes that we use regularly.",
   "main": "index.js",

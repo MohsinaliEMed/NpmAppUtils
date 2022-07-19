@@ -1,1 +1,1 @@
-# is-app-utils-npm-package
+# react-native-in-app-utils
